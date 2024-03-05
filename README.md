@@ -1,12 +1,12 @@
 
-# Career Goals Reflection Template
+# Career Goals Reflection 
 
 ### Personal Information
 
-- **Name:*Tsai Gomolemo Mogono*
-- **Date:*05/03/2024*
-- **Current Role/Position:*Soft ware engineering student*
-- **Field of Interest:*Soft Ware engineering*
+- **Name:Tsai Gomolemo Mogono**
+- **Date:05/03/2024**
+- **Current Role/Position:Soft ware engineering student**
+- **Field of Interest:Soft Ware engineering**
 
 ### Part 1: Self-Assessment Reflection
 
